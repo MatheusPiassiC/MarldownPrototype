@@ -23,8 +23,6 @@
  2. 🚀 [Parceiros](#parceiros)
  3. 🔍 [Contato](#contato)
 
-<a href="https://github.com/educabox/educabox/blob/main/instalacao/faq.md"><img src="https://github.com/educabox/educabox/blob/main/imagens/faq.png?raw=true&image_size=auto"/>
-
 ## 📝 <a id="tabela"/>Informações das imagens das TVs Boxes
 
 >Este é o repositório com todas as TVs Boxes que já foram descaracterizadas por nossa equipe. O link de instalação descreve passo-a-passo como instalar uma imagem Armbian Oficial em cada dispositivo! Caso deseje faça a instalação customizada do nosso projeto EducaBox já com todas as ferramentas e scripts para instalação.
