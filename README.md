@@ -10,12 +10,12 @@
 > !!!Texto de descrição do projeto!!!
 
 <p align="center">
-  <img src="https://github.com/educabox/educabox/blob/main/imagens/EDUCABOX/1.png?raw=true" alt="Size Limit CLI" width="1280">
+  <img src="" alt="Another possibility for the screenshot position" width="1280">
 </p>
 
 | Fenixbook Armbian | 
 | ----------- |
-|<img src="&image_size=auto" alt="Image of Fenixbook armbian homepage">|
+|<img src="&image_size=auto" alt="Printscreen from Fenixbook armbian homepage">|
 
 ## Sumário
 
@@ -109,9 +109,3 @@ Quer fazer parte desse projeto? Entre em contato conosco:
 
 🖥️ www.ifms.edu.br
 ✉️ educabox@ifms.edu.br
-
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=github,linux" />
-  </a>
-</p>
