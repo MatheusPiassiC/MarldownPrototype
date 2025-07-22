@@ -27,41 +27,32 @@
 
 >Este é o repositório com todas as TVs Boxes que já foram descaracterizadas por nossa equipe. O link de instalação descreve passo-a-passo como instalar uma imagem Armbian Oficial em cada dispositivo! Caso deseje faça a instalação customizada do nosso projeto EducaBox já com todas as ferramentas e scripts para instalação.
 
-| Nome         | Processador     | Imagem         | Tutorial       |
-|--------------|-----------------|----------------|----------------|
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-|              |                 | [Imagem]()     | [Tutorial]()   |
-
+| Nome             | Processador     | Imagem         | Tutorial       |
+|------------------|-----------------|----------------|----------------|
+| BRTV             | s905x           | [Imagem]()     | [Tutorial]()   |
+| BTB              | H3              | [Imagem]()     | [Tutorial]()   |
+| BTV B11          | s905x3          | [Imagem]()     | [Tutorial]()   |
+| BTV B13          | s905x4          | [Imagem]()     | [Tutorial]()   |
+| BTV E10          | s905x2          | [Imagem]()     | [Tutorial]()   |
+| HTV H6+          | s985x           | [Imagem]()     | [Tutorial]()   |
+| HTV H7           | s905x3          | [Imagem]()     | [Tutorial]()   |
+| InX Plus         | rk3229          | [Imagem]()     | [Tutorial]()   |
+| MiBox            | s905x-h         | [Imagem]()     | [Tutorial]()   |
+| MX10 mini        | rk3318          | [Imagem]()     | [Tutorial]()   |
+| MX9              | rk3228a         | [Imagem]()     | [Tutorial]()   |
+| MXQ Pro          | rk3229          | [Imagem]()     | [Tutorial]()   |
+| Tigre 2          | s905x           | [Imagem]()     | [Tutorial]()   |
+| Tomate           | rk322x          | [Imagem]()     | [Tutorial]()   |
+| Smart TV         | rk3228a         | [Imagem]()     | [Tutorial]()   |
+| TX2              |                 | [Imagem]()     | [Tutorial]()   |
+| TX6              | H6              | [Imagem]()     | [Tutorial]()   |
+| TX9 – AmLogic    | s905x           | [Imagem]()     | [Tutorial]()   |
+| TX9 5G – Rockchip| rk3328          | [Imagem]()     | [Tutorial]()   |
 
 
 ## 🤝 <a id="parceiros"/>Parceiros
 
-Agradecemos os seguintes órgãos e pessoas que contribuíram para este projeto:
+Agradecemos os seguintes órgãos que contribuíram para este projeto:
 
 <table>
   <tr>
