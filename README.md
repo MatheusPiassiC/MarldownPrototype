@@ -57,40 +57,32 @@ Agradecemos os seguintes órgãos que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.gov.br/mcom/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/computadores-para-inclusao-1">
-        <img src="https://github.com/educabox/educabox/blob/main/imagens/XX%20-%20COLABORADORES/logo-computadores-inclusao.png?raw=true" width="125px;" alt="CRC"/><br>
-        <sub>
-          <b></b>
-        </sub>
+      <a href="https://www.figma.com/design/dyDAYdHZ9KTDRHAdFaeu3s/Design-System?node-id=95-247&t=3tGhHlV9WKJW0YFa-4">
+        <img src="https://www.figma.com/design/dyDAYdHZ9KTDRHAdFaeu3s/Design-System?node-id=95-247&t=3tGhHlV9WKJW0YFa-4" width="125px;" alt="CRC"/><br>
+        <sub><b></b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="http://crcdourados.com.br">
+      <a href="https://www.figma.com/design/dyDAYdHZ9KTDRHAdFaeu3s/Design-System?node-id=95-247&t=3tGhHlV9WKJW0YFa-4">
         <img src="https://github.com/educabox/educabox/blob/main/imagens/XX%20-%20COLABORADORES/logo-crc.png?raw=true" width="125px;" alt="CRC DOURADOS"/><br>
-        <sub>
-          <b></b>
-        </sub>
+        <sub><b></b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.gov.br/receitafederal/">
+      <a href="https://www.figma.com/design/dyDAYdHZ9KTDRHAdFaeu3s/Design-System?node-id=95-247&t=3tGhHlV9WKJW0YFa-4">
         <img src="https://github.com/educabox/educabox/blob/main/imagens/XX%20-%20COLABORADORES/logo-rf.png?raw=true" width="125px;" alt="Receita Federal"/><br>
-        <sub>
-          <b></b>
-        </sub>
+        <sub><b></b></sub>
       </a>
     </td>
-    <td align="center"><br>
-      <a href="https://www.ifms.edu.br/">
+    <td align="center">
+      <a href="https://www.figma.com/design/dyDAYdHZ9KTDRHAdFaeu3s/Design-System?node-id=95-247&t=3tGhHlV9WKJW0YFa-4">
         <img src="https://github.com/educabox/educabox/blob/main/imagens/XX%20-%20COLABORADORES/logo-ifms.png?raw=true" width="250px;" alt="IFMS"/><br>
-        <sub>
-        <br>
-          <b></b>
-        </sub>
+        <sub><b></b></sub>
       </a>
     </td>
   </tr>
 </table>
+
 
 ## ✉️ <a id="contato"/>Contato
 
