@@ -57,32 +57,23 @@ Agradecemos os seguintes órgãos que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/crc-lavras/crc-lavras">
-        <img src="https://github.com/crc-lavras/crc-lavras/blob/main/imagens/RF.png?raw=true" width="125px;" alt="Receita Federal"/><br>
-      </a>
+      <img src="https://github.com/crc-lavras/crc-lavras/blob/main/imagens/RF.png?raw=true" width="125px;" alt="Receita Federal"/><br>
     </td>
     <td align="center">
-      <a href="https://github.com/crc-lavras/crc-lavras">
-        <img src="https://github.com/crc-lavras/crc-lavras/blob/main/imagens/UFLA.png?raw=true" width="125px;" alt="UFLA"/><br>
-      </a>
+      <img src="https://github.com/crc-lavras/crc-lavras/blob/main/imagens/UFLA.png?raw=true" width="125px;" alt="UFLA"/><br>
     </td>
     <td align="center">
-      <a href="https://github.com/crc-lavras/crc-lavras">
-        <img src="https://github.com/crc-lavras/crc-lavras/blob/main/imagens/MCOM.png?raw=true" width="125px;" alt="Ministério das Comunicações"/><br>
-      </a>
+      <img src="https://github.com/crc-lavras/crc-lavras/blob/main/imagens/MCOM.png?raw=true" width="125px;" alt="Ministério das Comunicações"/><br>
     </td>
     <td align="center">
-      <a href="https://github.com/crc-lavras/crc-lavras">
-        <img src="https://github.com/crc-lavras/crc-lavras/blob/main/imagens/CRCLAVRAS.png?raw=true" width="125px;" alt="CRC Lavras"/><br>
-      </a>
+      <img src="https://github.com/crc-lavras/crc-lavras/blob/main/imagens/CRCLAVRAS.png?raw=true" width="125px;" alt="CRC Lavras"/><br>
     </td>
     <td align="center">
-      <a href="https://github.com/crc-lavras/crc-lavras">
-        <img src="https://github.com/crc-lavras/crc-lavras/blob/main/imagens/COMPINCL.png?raw=true" width="125px;" alt="CompIncl"/><br>
-      </a>
+      <img src="https://github.com/crc-lavras/crc-lavras/blob/main/imagens/COMPINCL.png?raw=true" width="125px;" alt="CompIncl"/><br>
     </td>
   </tr>
 </table>
+
 
 
 
