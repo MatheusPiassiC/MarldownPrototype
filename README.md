@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/crc-lavras/crc-lavras/blob/main/imagens/Banner%20Git2.png" alt="Fenixbook image" width="1280">
+  <img src="https://github.com/crc-lavras/crc-lavras/blob/main/imagens/Banner%20Git2.png" alt="Fenixbook image" width="1200">
 </p>
 
 <h4 align="center"> !!!Titulo desrcevendo o projeto!!! <a href="#" target="_blank">EducaBox</a>.</h4>
