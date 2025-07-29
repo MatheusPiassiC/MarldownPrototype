@@ -59,31 +59,26 @@ Agradecemos os seguintes órgãos que contribuíram para este projeto:
     <td align="center">
       <a href="https://github.com/crc-lavras/crc-lavras">
         <img src="https://github.com/crc-lavras/crc-lavras/blob/main/imagens/RF.png?raw=true" width="125px;" alt="Receita Federal"/><br>
-        <sub><b>Receita Federal</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/crc-lavras/crc-lavras">
         <img src="https://github.com/crc-lavras/crc-lavras/blob/main/imagens/UFLA.png?raw=true" width="125px;" alt="UFLA"/><br>
-        <sub><b>UFLA</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/crc-lavras/crc-lavras">
         <img src="https://github.com/crc-lavras/crc-lavras/blob/main/imagens/MCOM.png?raw=true" width="125px;" alt="Ministério das Comunicações"/><br>
-        <sub><b>Ministério das Comunicações</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/crc-lavras/crc-lavras">
         <img src="https://github.com/crc-lavras/crc-lavras/blob/main/imagens/CRCLAVRAS.png?raw=true" width="125px;" alt="CRC Lavras"/><br>
-        <sub><b>CRC Lavras</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/crc-lavras/crc-lavras">
         <img src="https://github.com/crc-lavras/crc-lavras/blob/main/imagens/COMPINCL.png?raw=true" width="125px;" alt="CompIncl"/><br>
-        <sub><b>CompIncl</b></sub>
       </a>
     </td>
   </tr>
