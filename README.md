@@ -6,14 +6,6 @@
 
 > !!!Texto de descrição do projeto!!!
 
-<p align="center">
-  <img src="" alt="Another possibility for the screenshot position" width="1280">
-</p>
-
-| Fenixbook Armbian | 
-| ----------- |
-|<img src="&image_size=auto" alt="Printscreen from Fenixbook armbian homepage">|
-
 ## Sumário
 
  1. 📝 [Informações das imagens das TVs Boxes](#tabela)
@@ -22,7 +14,7 @@
 
 ## 📝 <a id="tabela"/>Informações das imagens das TVs Boxes
 
->Este é o repositório com todas as TVs Boxes que já foram descaracterizadas por nossa equipe. O link de instalação descreve passo-a-passo como instalar uma imagem Armbian Oficial em cada dispositivo! Caso deseje faça a instalação customizada do nosso projeto EducaBox já com todas as ferramentas e scripts para instalação.
+>Essa tabela contém informações sobre as TV Boxes trabalhadas no projeto. Para cada dispositivo listado, está disponibilizado um link para download da imagem do Armbian personalizada com as configurações feitas pelo projeto FênixBook, além de um link para um tutorial em PDF com instruções detalhadas sobre o processo de descaracterização dos dispositivos.
 
 | Nome                  | Processador     | Imagem                                                                                          | Tutorial                                                                                        |
 |-----------------------|-----------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
