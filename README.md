@@ -2,9 +2,9 @@
   <img src="https://github.com/crc-lavras/crc-lavras/blob/main/imagens/Banner%20Git2.png" alt="Fenixbook image" width="1200">
 </p>
 
-<h4 align="center"> !!!Titulo desrcevendo o projeto!!! <a href="#" target="_blank">EducaBox</a>.</h4>
+<h4 align="center"> Projeto Fenixbook </h4>
 
-> !!!Texto de descrição do projeto!!!
+> O FênixBook é um projeto voltado para o reuso de TV Boxes apreendidas, transformando-as em ferramentas educacionais através de imagens personalizadas do Armbian. A iniciativa, vinculada ao CRC/UFLA, disponibiliza imagens prontas para uso e tutoriais de descaracterização, facilitando o recondicionamento desses dispositivos em ambientes de ensino e inclusão digital.
 
 ## Sumário
 
